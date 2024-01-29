@@ -7,4 +7,4 @@ Install following dependencies:
 2. JDK
 3. Maven - put the folder in Program Files and add the "bin" subdirectory of that folder into your PATH variable
 
-TO RUN: type the command "mvn clean javafx:run"
+TO RUN: type the command "mvn clean javafx:run" while in the project directory
